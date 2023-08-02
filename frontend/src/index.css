@@ -1,0 +1,24 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  /* border:  1px solid red; */
+}
+a{
+  text-decoration: none;
+  color: white;
+}
+.logout-btn:hover{
+    background-color: rgb(206, 230, 206);
+}
+.css-1fde58q-MuiButtonBase-root-MuiButton-root:hover{
+  background-color: red;
+}
+.newdoc{
+  color: rgb(222, 227, 222);
+  background-color: rgba(9, 108, 9, 0.746);
+  padding: 5px 20px;
+  /* width: 300px; */
+  text-align: center;
+  border-radius: 5px;
+}
